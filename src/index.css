@@ -67,3 +67,7 @@ button:focus-visible {
 }
 
 
+
+#mo{
+  transform: translate(200%,-100%);
+}
